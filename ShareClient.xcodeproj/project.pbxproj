@@ -110,6 +110,8 @@
 		43AB51302133161A00B3D58D /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
 		43AB51352133177800B3D58D /* LocalizedString.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalizedString.swift; sourceTree = "<group>"; };
 		43C418AE1CE0488900405B6A /* ShareClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShareClient.swift; sourceTree = "<group>"; };
+		7D4C912B2331E3B2003F5248 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7D4C912C2331E3B2003F5248 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A9ED4DA4225EB4D30080DEBA /* ShareClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ShareClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9ED4DAE225EB9390080DEBA /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS.sdk/System/Library/Frameworks/HealthKit.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -384,6 +386,7 @@
 				nb,
 				ru,
 				pl,
+				sv,
 			);
 			mainGroup = 432B0E7E1CDFC3C50045347B;
 			productRefGroup = 432B0E891CDFC3C50045347B /* Products */;
@@ -535,6 +538,7 @@
 				43AB512221330D8A00B3D58D /* nb */,
 				43AB512321330D8E00B3D58D /* ru */,
 				43AB512421330D9400B3D58D /* pl */,
+				7D4C912C2331E3B2003F5248 /* sv */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -552,6 +556,7 @@
 				43AB512E2133161900B3D58D /* nb */,
 				43AB512F2133161A00B3D58D /* ru */,
 				43AB51302133161A00B3D58D /* pl */,
+				7D4C912B2331E3B2003F5248 /* sv */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

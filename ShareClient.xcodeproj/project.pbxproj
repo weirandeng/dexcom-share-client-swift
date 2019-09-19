@@ -65,6 +65,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02DD47582332D2C3006FB374 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
+		02DD47592332D2C3006FB374 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4325E9CE210E6A0A00969CE5 /* HKUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HKUnit.swift; sourceTree = "<group>"; };
 		4325E9D0210E6A3D00969CE5 /* TimeInterval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeInterval.swift; sourceTree = "<group>"; };
 		4325E9D2210E6ADA00969CE5 /* IdentifiableClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IdentifiableClass.swift; sourceTree = "<group>"; };
@@ -387,6 +389,7 @@
 				ru,
 				pl,
 				sv,
+				vi,
 			);
 			mainGroup = 432B0E7E1CDFC3C50045347B;
 			productRefGroup = 432B0E891CDFC3C50045347B /* Products */;
@@ -539,6 +542,7 @@
 				43AB512321330D8E00B3D58D /* ru */,
 				43AB512421330D9400B3D58D /* pl */,
 				7D4C912C2331E3B2003F5248 /* sv */,
+				02DD47592332D2C3006FB374 /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -557,6 +561,7 @@
 				43AB512F2133161A00B3D58D /* ru */,
 				43AB51302133161A00B3D58D /* pl */,
 				7D4C912B2331E3B2003F5248 /* sv */,
+				02DD47582332D2C3006FB374 /* vi */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
